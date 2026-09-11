@@ -1,14 +1,14 @@
-layout	essay
-type	essay
-title	Better Questions Equals Better Answers
-date	2026-09-10
-published	true
-labels	
-Smart Questions
-Software Engineering
-ICS 314
-
-Asking Better Questions Gets Better Answers
+---
+layout: essay
+type: essay
+title: "Better Questions Better Answers"
+date: 2026-09-10
+published: true
+labels:
+  - Smart Questions
+  - Software Engineering
+  - Learning
+---
 
 When I get stuck on code, my first thought is usually just to ask someone what I did wrong. Before reading How to Ask Questions the Smart Way, I never really thought about how much the way I ask the question matters.
 
@@ -18,11 +18,11 @@ Raymond explains that people are more willing to answer questions when it is cle
 
 Looking through Stack Overflow made this idea a lot easier for me to understand.
 
-In the context of a smart question
+##In the context of a smart question
 
 For my smart question, I chose “Why is conditional processing of a sorted array faster than of an unsorted array?”
 
-View the Stack Overflow question
+##View the Stack Overflow question
 
 In the question, the programmer noticed that the same code ran much faster when an array was sorted compared to when the array contained random values. They included the code they were testing, showed the different run times, and explained that they saw similar results in another programming language.
 
@@ -38,7 +38,7 @@ I thought that was interesting because the programmer did not just get a quick a
 
 To me, that shows what Raymond means by asking a smart question. The person answering does not have to waste time trying to understand the problem first. They can spend that time actually explaining the solution.
 
-In the context of a not-so-smart question
+##In the context of a not-so-smart question
 
 For my not-so-smart example, I chose “Quick start learning Python following industrial standards.”
 
@@ -58,7 +58,7 @@ That is basically what happened with this question. Instead of getting one detai
 
 I think this example shows that even if you have done research, you still need to narrow down what you are actually asking.
 
-In the context of asking for programming help
+##In the context of asking for programming help
 
 This assignment also made me think about how I ask questions when I am doing my own programming assignments.
 
@@ -74,7 +74,7 @@ Raymond also points out that when asking about code, it is much better to provid
 
 That seems simple, but I can see how much easier it would make things for the person trying to help.
 
-In the context of software engineering
+##In the context of software engineering
 
 Before this assignment, I mostly thought communication skills were separate from programming skills.
 
@@ -100,6 +100,6 @@ The not-so-smart question showed the opposite. Even though the person had clearl
 
 I think this is something I can use outside of Stack Overflow too. Whether I am asking a professor, classmate, coworker, or another programmer for help, asking a better question will probably make it easier for both of us.
 
-AI Use
+##AI Use
 
 I used ChatGPT to help me organize the essay, compare the two Stack Overflow examples, and improve the grammar and flow of my writing. I reviewed the information and used the assignment materials to make sure the ideas in the essay matched what I learned from How to Ask Questions the Smart Way.
