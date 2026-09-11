@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning Type Script WOD after WOD"
 # All dates must be YYYY-MM-DD format!
-date: 2026-10-09
+date: 2026-09-10
 published: true
 labels:
   - Typescript
