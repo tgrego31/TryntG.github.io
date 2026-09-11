@@ -10,6 +10,8 @@ labels:
   - Learning
 ---
 
+<img width="400" height="600" alt="notebook-spine" src="https://github.com/user-attachments/assets/0dfb95ef-433b-4f74-a8f6-cdb8ff1c5dba" />
+
 # Asking Questions the Smart Way
 
 ### A Reflection on Stack Overflow and Programming Communication
