@@ -2,56 +2,92 @@
   "basics": {
     "name": "Trynt Gregory",
     "label": "Student",
-    "picture": "https://github.com/tgrego31/TryntG.github.io/blob/179f8e3471c1c5c187f9304010cf97a64633ef41/README.md",
+    "picture": "",
     "email": "trynt.gregory@gmail.com",
     "phone": "",
     "website": "https://tgrego31.github.io/TryntG.github.io/",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2027.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "Trynt-Gregory", "url": "https://tgrego31.github.io/TryntG.github.io/" },
-      { "network": "linkedin", "username": "Trynt-Gregory", "url": "https://www.linkedin.com/in/trynt-gregory-6a9522427" },
+      {
+        "network": "github",
+        "username": "tgrego31",
+        "url": "https://github.com/tgrego31"
+      },
+      {
+        "network": "linkedin",
+        "username": "Trynt Gregory",
+        "url": "https://www.linkedin.com/in/trynt-gregory-6a9522427"
+      }
     ]
   },
   "interests": [
-    { "name": "Cybersecurity" },
-    { "name": "Network Engineering" },
-    { "name": "IT Resolution" },
-    { "name": "Cloud Infrastructre" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Cybersecurity"
+    },
+    {
+      "name": "Network Engineering"
+    },
+    {
+      "name": "IT Resolution"
+    },
+    {
+      "name": "Cloud Infrastructure"
+    },
+    {
+      "name": "3D Graphics"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "Assembly",
+        "Common Lisp"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [
+        "macOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2025-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "2027-05-01",
+      "courses": []
     }
   ],
   "work": [
     {
       "company": "Disney",
-      "position": "IT Itern",
+      "position": "IT Intern",
       "website": "",
       "startDate": "2026-05-04",
       "endDate": "2026-08-24",
-      "summary": "Gained hands-on experience with enterprise networking, fiber-optic infrastructure, Aruba wireless systems, device provisioning, and large-scale commercial ITdeployments supporting a top hospitality environment.",
+      "summary": "Gained hands-on experience with enterprise networking, fiber-optic infrastructure, Aruba wireless systems, device provisioning, and large-scale commercial IT deployments supporting a top hospitality environment.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supported enterprise networking and wireless infrastructure projects.",
+        "Assisted with device provisioning and large-scale commercial IT deployments."
       ]
     },
     {
@@ -60,55 +96,11 @@
       "website": "",
       "startDate": "2026-01-01",
       "endDate": "2026-02-28",
-      "summary": "Assisted with upgrading and configuring network infrastructure, including servers and switches Supported installation and maintenance of hardware to improve system performance and reliability",
-      "highlights": [
-        " "
-      ]
+      "summary": "Assisted with upgrading and configuring network infrastructure, including servers and switches. Supported the installation and maintenance of hardware to improve system performance and reliability.",
+      "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": ",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": ""
-    }
-  ]
+  "volunteer": [],
+  "awards": [],
+  "references": []
 }
