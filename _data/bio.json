@@ -14,10 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Cybersecurity" },
+    { "name": "Network Engineering" },
+    { "name": "IT Resolution" },
+    { "name": "Cloud Infrastructre" },
     { "name": "3D Graphics" }
   ],
   "skills": [
