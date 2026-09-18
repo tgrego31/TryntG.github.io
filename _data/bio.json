@@ -5,11 +5,11 @@
     "picture": "https://github.com/tgrego31/TryntG.github.io/blob/179f8e3471c1c5c187f9304010cf97a64633ef41/README.md",
     "email": "trynt.gregory@gmail.com",
     "phone": "",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://tgrego31.github.io/TryntG.github.io/",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "Trynt Gregory", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "Trynt Gregory", "url": "https://tgrego31.github.io/TryntG.github.io/" },
       { "network": "linkedin", "username": "Trynt Gregory", "url": "https://www.linkedin.com/in/trynt-gregory-6a9522427" },
     ]
   },
