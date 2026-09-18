@@ -2,7 +2,7 @@
   "basics": {
     "name": "Trynt Gregory",
     "label": "Student",
-    "picture": "<img width="492" height="512" alt="Screenshot 2026-09-17 195235" src="https://github.com/user-attachments/assets/7e76dcfd-be67-446b-9f88-280d40b60e4a" />",
+    "picture": "https://github.com/tgrego31/TryntG.github.io/blob/179f8e3471c1c5c187f9304010cf97a64633ef41/README.md",
     "email": "trynt.gregory@gmail.com",
     "phone": "",
     "website": "https://mmaluhia.github.io",
@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
