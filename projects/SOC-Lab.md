@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/soc-lab/soc-lab-square.png
 title: "SOC Lab"
-date: 2026
+date: 2025
 published: true
 labels:
   - Cybersecurity
