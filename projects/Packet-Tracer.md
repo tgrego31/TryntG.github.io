@@ -12,7 +12,8 @@ labels:
 - GitHub
   summary: "A networking lab that I created using Cisco Packet Tracer to practice network configuration, routing, switching, and troubleshooting."
 
-<img class="img-fluid" src="../img/packet-tracer/packet-tracer-header.png">
+<img width="594" height="390" alt="image" src="https://github.com/user-attachments/assets/5d0523ac-0d2b-45cd-b3c4-111c7ca8464c" />
+
 The Cisco Packet Tracer Network Lab is a project that I created to gain more hands-on experience with computer networking and better understand how devices communicate across a network.
 Using Cisco Packet Tracer, I created different network topologies containing devices such as routers, switches, computers, and servers. I configured these devices and tested communication between different hosts to make sure the network was functioning correctly.
 Throughout this project, I gained more experience with networking concepts such as IP addressing, subnetting, TCP/IP, routing, switching, and Cisco command-line configuration.
