@@ -1,43 +1,21 @@
-layout: project
+ayout: project
 type: project
-image: img/projects/packet-tracer-square.png
+image: img/packet-tracer/packet-tracer-square.png
 title: "Cisco Packet Tracer Network Lab"
-date: 2026-09-25
+date: 2026
 published: true
 labels:
-  - Cisco Packet Tracer
-  - Networking
-  - TCP/IP
-  - Routing
-  - Switching
-summary: "Designed and configured simulated computer networks using Cisco Packet Tracer to practice networking, routing, switching, and troubleshooting."
----
-
-## Cisco Packet Tracer Network Lab
-
-The Cisco Packet Tracer Network Lab was a hands-on networking project that I completed to strengthen my understanding of how devices communicate across a network.
-
-Using Cisco Packet Tracer, I created different network topologies containing devices such as routers, switches, computers, and servers. I configured the devices and tested communication between different hosts to better understand how networks operate.
-
-## What I Worked With
-
-Throughout this project, I gained more experience with networking concepts such as:
-
-- IP addressing
-- Subnetting
+- Cisco
+- Networking
+- Packet Tracer
 - TCP/IP
-- Routing
-- Switching
-- Cisco CLI commands
-- Network troubleshooting
-- Packet analysis
+- GitHub
+  summary: "A networking lab that I created using Cisco Packet Tracer to practice network configuration, routing, switching, and troubleshooting."
 
-One of the most useful parts of this project was learning how to troubleshoot connectivity problems. Instead of only seeing whether something worked or did not work, I could follow packets through the simulated network and determine where communication was failing.
-
-## What I Learned
-
-This project helped me better understand how different networking concepts connect together. Configuring routers and switches gave me more practical experience compared to only learning about networking through notes or textbooks.
-
-I also became more comfortable using Cisco-style command-line interfaces to configure devices and verify their configurations.
-
-Overall, this project gave me a stronger networking foundation that I can apply to future work in information technology and cybersecurity.
+<img class="img-fluid" src="../img/packet-tracer/packet-tracer-header.png">
+The Cisco Packet Tracer Network Lab is a project that I created to gain more hands-on experience with computer networking and better understand how devices communicate across a network.
+Using Cisco Packet Tracer, I created different network topologies containing devices such as routers, switches, computers, and servers. I configured these devices and tested communication between different hosts to make sure the network was functioning correctly.
+Throughout this project, I gained more experience with networking concepts such as IP addressing, subnetting, TCP/IP, routing, switching, and Cisco command-line configuration.
+One of the most useful parts of this project was learning how to troubleshoot connectivity problems. Packet Tracer allowed me to follow packets as they traveled through the network and determine where communication was failing.
+This project helped strengthen my understanding of networking and gave me practical experience that I can apply to future work in information technology and cybersecurity.
+Source: <a href="https://github.com/tgrego31/TryntG.github.io"><i class="large github icon "></i>tgrego31/TryntG.github.io</a>
