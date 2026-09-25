@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/soc-lab/soc-lab-square.png
-title: "Home Security Operations Center Lab"
+title: "SOC Lab"
 date: 2026
 published: true
 labels:
