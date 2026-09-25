@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/packet-tracer/packet-tracer-square.png
+image: <img width="305" height="181" alt="image" src="https://github.com/user-attachments/assets/1415f673-9691-4002-aba3-f1beafa49d25" />
+
 title: "Cisco Packet Tracer Network Lab"
 date: 2026
 published: true
